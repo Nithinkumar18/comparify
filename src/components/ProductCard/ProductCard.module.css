@@ -1,0 +1,78 @@
+.myCard{
+   height: 290px;
+    width: 230px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 12px;
+    padding: 4px;
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.myCard:hover{
+    box-shadow:  0 4px 8px 0 goldenrod;
+}
+
+.myCardDetails{
+    margin: 5px 10px;
+    padding: 4px;
+   
+    
+}
+.pid{
+    font-size: 20px;
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.subCon{
+    font-size: 17px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pprice{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: goldenrod
+}
+
+.prating{
+     font-size: 20px;
+    font-weight: 100;
+}
+
+.pavailable{
+    text-align: center;
+    font-weight: 400;
+    
+}
+.ava{
+    color: green;
+
+}
+.unava{
+    color: red;
+}
+.bpos{
+    margin-left: 135px;
+}
+.cbtn{
+    background-color: goldenrod;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    
+}
+.cbtn:hover{
+    box-shadow: 0px 2px 4px 0px greenyellow;
+
+}
+.rmbtn{
+    background-color: red;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
